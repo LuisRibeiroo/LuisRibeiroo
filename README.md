@@ -1,15 +1,17 @@
-# Luís Carlos Ribeiro Junior - Junior Ribeiro :man:
-## Desenvolvedor mobile e engenheiro de sofware :computer: :iphone:
+# Luís Carlos Ribeiro Junior - Junior Ribeiro :computer::iphone:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniorribeiroo/)](https://www.linkedin.com/in/juniorribeiroo/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@juniorribeiroo_)](https://medium.com/@juniorribeiroo_)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=http://t.me/juniorribeiroo)](http://t.me/juniorribeiroo)
 
+---
+### Desenvolvedor mobile e engenheiro de sofware
 - :telescope: Atualmente atuo em projetos pela empresa [IT Fast](https://itfast.com.br/site)
 - :books: Meus estudos atuais são voltados para **Flutter, Microsserviços e DevOps**
 - :speech_balloon: Se quiser bater um papo, pode me acionar no e-mail **junior_ribeiroo@outlook.com**
 
-### 🛠 Ferramentas e linguagens
+---
+### :wrench::satellite: Ferramentas e Tecnologias 
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=0270EE)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=0270EE)
