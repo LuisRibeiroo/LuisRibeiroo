@@ -5,10 +5,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=http://t.me/juniorribeiroo)](http://t.me/juniorribeiroo)
 
 ---
-### Desenvolvedor mobile e engenheiro de sofware
-- :telescope: Atualmente atuo em projetos pela empresa [IT Fast](https://itfast.com.br/site)
-- :books: Meus estudos atuais são voltados para **Flutter, Microsserviços e DevOps**
-- :speech_balloon: Se quiser bater um papo, pode me acionar no e-mail **junior_ribeiroo@outlook.com**
+### Engenheiro de sofware Mobile
+- :telescope: Atuando pela empresa [Iteris](https://iteris.com.br)
+- :books: Meus estudos são voltados para **Flutter, Mobile e DevOps**
+- :speech_balloon: Se quiser bater um papo, pode me acionar no e-mail **[junior_ribeiroo@outlook.com](mailto:junior_ribeiroo@outlook.com)**
 
 ---
 ### :wrench::satellite: Ferramentas e Tecnologias 
