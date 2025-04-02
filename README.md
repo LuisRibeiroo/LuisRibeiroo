@@ -6,7 +6,7 @@
 
 ---
 ### Engenheiro de sofware Mobile
-- :telescope: Atuando pela empresa [Iteris](https://iteris.com.br)
+- :telescope: Atuando pela [XP](https://www.xpinc.com/)
 - :books: Meus estudos são voltados para **Flutter, Mobile e DevOps**
 - :speech_balloon: Se quiser bater um papo, pode me acionar no e-mail **[dev.luisribeiro@outlook.com](mailto:dev.luisribeiro@outlook.com)**
 
