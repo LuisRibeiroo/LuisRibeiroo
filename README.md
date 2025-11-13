@@ -5,8 +5,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=http://t.me/juniorribeiroo)](http://t.me/juniorribeiroo)
 
 ---
-### Engenheiro de sofware Mobile
-- :telescope: Atuando pela [XP](https://www.xpinc.com/)
+### Mobile Software Engineer
+- :telescope: [Raise](https://www.raise.com/)
 - :books: Meus estudos são voltados para **Flutter, Mobile e DevOps**
 - :speech_balloon: Se quiser bater um papo, pode me acionar no e-mail **[dev.luisribeiro@outlook.com](mailto:dev.luisribeiro@outlook.com)**
 
