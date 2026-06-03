@@ -1,6 +1,4 @@
-# Luís Ribeiro :computer::iphone:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juniorribeiroo/) 
+# Luís Ribeiro :computer::iphone: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juniorribeiroo/) 
 
 ---
 
