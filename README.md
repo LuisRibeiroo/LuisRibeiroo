@@ -1,8 +1,6 @@
 # Luís Ribeiro :computer::iphone:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juniorribeiroo/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@juniorribeiroo_)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](http://t.me/juniorribeiroo)
 
 ---
 
@@ -15,16 +13,7 @@
 
 ---
 
-## 🇧🇷 Português
-
-### Engenheiro de Software Mobile & Tech Lead
-* :telescope: Atualmente trabalhando na **[Raise](https://www.raise.com/)**
-* :books: Meus focos atuais são **Flutter, Arquitetura Mobile e Automação/DevOps**
-* :speech_balloon: Quer bater um papo? Me mande um e-mail em **[main@luisribeiro.tech](mailto:main@luisribeiro.tech)**
-
----
-
-### :wrench: Tools & Technologies / Ferramentas e Tecnologias 
+### :wrench: Tools & Technologies
 
 #### Mobile & Core
 ![](https://img.shields.io/badge/Flutter-0270EE?style=for-the-badge&logo=flutter&logoColor=white)
