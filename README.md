@@ -4,8 +4,6 @@
 
 ---
 
-## 🇺🇸 English
-
 ### Mobile Software Engineer & Tech Lead
 * :telescope: Currently working at **[Raise](https://www.raise.com/)**
 * :books: Focused on **Flutter, Mobile Architecture, and Automation/DevOps**
