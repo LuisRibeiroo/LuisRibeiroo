@@ -1,4 +1,4 @@
-# Luís Carlos Ribeiro Junior - Luís Ribeiro :computer::iphone:
+# Luís Ribeiro :computer::iphone:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juniorribeiroo/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@juniorribeiroo_)
