@@ -32,10 +32,10 @@ Flutter apps I design, build and release end to end. Live on the App Store, in i
 ## Latest activity
 
 <!--RECENT:START-->
+- [**skills**](https://github.com/LuisRibeiroo/skills) · `JavaScript` · pushed 2026-11-24
 - [**spmx**](https://github.com/LuisRibeiroo/spmx) · `Swift` · release v0.2.4 · pushed 2026-11-19
 - [**homebrew-tap**](https://github.com/LuisRibeiroo/homebrew-tap) · `Ruby` · pushed 2026-11-17
 - [**tester-swarm**](https://github.com/LuisRibeiroo/tester-swarm) · `Dart` · pushed 2026-11-15
-- [**skills**](https://github.com/LuisRibeiroo/skills) · `JavaScript` · pushed 2026-10-28
 - [**store_promo_generator**](https://github.com/LuisRibeiroo/store_promo_generator) · `JavaScript` · pushed 2026-02-18
 <!--RECENT:END-->
 
